@@ -1,0 +1,1 @@
+package br.com.builder;public interface Montador {	void adicionarSanduiche(String sanduiche);	void adicionarBatata(String batata);	void adicionarBrinquedo(String brinquedo);	void adicionarRefrigerante(String refrigerante);}
